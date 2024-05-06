@@ -1,5 +1,5 @@
 # TareaVHDL
-Implementación y simulación de circuitos lógicos en VHDL para Spartan 3E usando Xilinx. Realizado por: Estefanía Zuluaga y Maria Paula Rey
+Implementación y simulación de circuitos lógicos en VHDL para Spartan 3E usando Xilinx. 
 
 En este repositorio se encontrarán 4 archivos zip y 1 archivo UCF:
 Multiplexor4en1
